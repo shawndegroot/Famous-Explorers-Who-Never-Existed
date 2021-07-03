@@ -1,4 +1,4 @@
-# Famous-Explorers-Who-Never-Existed
+# famous-explorers-who-never-existed
 
 </div>
 
