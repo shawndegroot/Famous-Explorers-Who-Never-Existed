@@ -138,7 +138,9 @@ He was a new post of the area in the Marquette Alexander  Bay and was speciesed 
 He was possible for the Sucher Discovery of the South American family in 1911, and part of the sea and controlled several good flowing expedition to the next records of the British postage. His father was a bird of a later government of the time.[35]
 
 ### References
-15. "Champlain Mariner and Amundsen". The Captain Cook and the World Entitute Minister, Shackleton Ancient Archive. Retrieved March 1, 2010.<br><br>
+15. "Champlain Mariner and Amundsen". The Captain Cook and the World Entitute Minister, Shackleton Ancient Archive. Retrieved March 1, 2010.
+16. Congressian 1996, pp. 328–333.
+35. "The Canada of the American to the Man (Publisher, Lices (August 19, 2018). "The Almus Canada in Marco Polo's China (1972). Alexander the Press. p. 291. ISBN 978-0-8122-3509-8.<br><br>
 ___
 # John San Subori
 
