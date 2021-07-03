@@ -16,7 +16,7 @@ ___
 |---|---|
 |__Born__| c. 1679 |
 |__Died__| c. 1901 |
-|__Nationality__| British |
+|__Nationality__| :england: |
 |__Occupation__| Prince, Navigator |
 |__Known for__| Discovering American South America. |
 
@@ -51,7 +51,7 @@ ___
 |__Born__| 1887 |
 |__Died__| 1942 |
 |__Cause of death__| Stregation |
-|__Nationality__| Canadian |
+|__Nationality__| :canada: |
 |__Occupation__| Naval Officer |
 |__Known for__| Discovering gold at the Indian Farn Islands. |
 
@@ -84,7 +84,7 @@ ___
 |---|---|
 |__Born__| c. 1837 |
 |__Died__| 2009 |
-|__Nationality__| Portugese |
+|__Nationality__| :portugal: |
 |__Occupation__| Explorer |
 |__Known for__| Studying the western coast of Mount Everest.|
 
@@ -117,7 +117,7 @@ ___
 |---|---|
 |__Born__| c. 1500 |
 |__Died__| 1949 |
-|__Nationality__| American |
+|__Nationality__| :us: |
 |__Occupation__| Merchant |
 |__Known for__| Controlling expeditions of the British postage. |
 
@@ -150,7 +150,7 @@ ___
 |---|---|
 |__Born__| c. 1771 |
 |__Died__| 1918 |
-|__Nationality__| Spanish |
+|__Nationality__| :es: |
 |__Occupation__| Mariner |
 |__Known for__| Construction of the Russian coast of New Zealand. |
 
